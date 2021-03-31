@@ -1,0 +1,2 @@
+(this["webpackJsonpwaves-music-app-react"]=this["webpackJsonpwaves-music-app-react"]||[]).push([[0],{9:function(t,e,n){"use strict";n.r(e);var c=n(0),i=n.n(c),s=n(3),a=n.n(s),r=n(1);var o=function(){return Object(r.jsx)("div",{})},u=function(t){t&&t instanceof Function&&n.e(3).then(n.bind(null,10)).then((function(e){var n=e.getCLS,c=e.getFID,i=e.getFCP,s=e.getLCP,a=e.getTTFB;n(t),c(t),i(t),s(t),a(t)}))};a.a.render(Object(r.jsx)(i.a.StrictMode,{children:Object(r.jsx)(o,{})}),document.getElementById("root")),u()}},[[9,1,2]]]);
+//# sourceMappingURL=main.5eca9303.chunk.js.map
