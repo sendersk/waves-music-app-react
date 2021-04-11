@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/waves-music-app-react/static/css/main.c99aff6e.chunk.css",
-    "main.js": "/waves-music-app-react/static/js/main.dd7f72c0.chunk.js",
-    "main.js.map": "/waves-music-app-react/static/js/main.dd7f72c0.chunk.js.map",
-    "runtime-main.js": "/waves-music-app-react/static/js/runtime-main.dc4522c4.js",
-    "runtime-main.js.map": "/waves-music-app-react/static/js/runtime-main.dc4522c4.js.map",
-    "static/js/2.47025848.chunk.js": "/waves-music-app-react/static/js/2.47025848.chunk.js",
-    "static/js/2.47025848.chunk.js.map": "/waves-music-app-react/static/js/2.47025848.chunk.js.map",
-    "static/js/3.e1a04f31.chunk.js": "/waves-music-app-react/static/js/3.e1a04f31.chunk.js",
-    "static/js/3.e1a04f31.chunk.js.map": "/waves-music-app-react/static/js/3.e1a04f31.chunk.js.map",
+    "main.css": "/waves-music-app-react/static/css/main.5a8c9eaa.chunk.css",
+    "main.js": "/waves-music-app-react/static/js/main.8125d82d.chunk.js",
+    "main.js.map": "/waves-music-app-react/static/js/main.8125d82d.chunk.js.map",
+    "runtime-main.js": "/waves-music-app-react/static/js/runtime-main.05f20c60.js",
+    "runtime-main.js.map": "/waves-music-app-react/static/js/runtime-main.05f20c60.js.map",
+    "static/js/2.6298d4cb.chunk.js": "/waves-music-app-react/static/js/2.6298d4cb.chunk.js",
+    "static/js/2.6298d4cb.chunk.js.map": "/waves-music-app-react/static/js/2.6298d4cb.chunk.js.map",
+    "static/js/3.48c95080.chunk.js": "/waves-music-app-react/static/js/3.48c95080.chunk.js",
+    "static/js/3.48c95080.chunk.js.map": "/waves-music-app-react/static/js/3.48c95080.chunk.js.map",
     "index.html": "/waves-music-app-react/index.html",
-    "static/css/main.c99aff6e.chunk.css.map": "/waves-music-app-react/static/css/main.c99aff6e.chunk.css.map",
-    "static/js/2.47025848.chunk.js.LICENSE.txt": "/waves-music-app-react/static/js/2.47025848.chunk.js.LICENSE.txt"
+    "static/css/main.5a8c9eaa.chunk.css.map": "/waves-music-app-react/static/css/main.5a8c9eaa.chunk.css.map",
+    "static/js/2.6298d4cb.chunk.js.LICENSE.txt": "/waves-music-app-react/static/js/2.6298d4cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc4522c4.js",
-    "static/js/2.47025848.chunk.js",
-    "static/css/main.c99aff6e.chunk.css",
-    "static/js/main.dd7f72c0.chunk.js"
+    "static/js/runtime-main.05f20c60.js",
+    "static/js/2.6298d4cb.chunk.js",
+    "static/css/main.5a8c9eaa.chunk.css",
+    "static/js/main.8125d82d.chunk.js"
   ]
 }
