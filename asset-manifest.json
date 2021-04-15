@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/waves-music-app-react/static/css/main.5a8c9eaa.chunk.css",
-    "main.js": "/waves-music-app-react/static/js/main.8125d82d.chunk.js",
-    "main.js.map": "/waves-music-app-react/static/js/main.8125d82d.chunk.js.map",
+    "main.js": "/waves-music-app-react/static/js/main.6bbe4993.chunk.js",
+    "main.js.map": "/waves-music-app-react/static/js/main.6bbe4993.chunk.js.map",
     "runtime-main.js": "/waves-music-app-react/static/js/runtime-main.05f20c60.js",
     "runtime-main.js.map": "/waves-music-app-react/static/js/runtime-main.05f20c60.js.map",
     "static/js/2.6298d4cb.chunk.js": "/waves-music-app-react/static/js/2.6298d4cb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.05f20c60.js",
     "static/js/2.6298d4cb.chunk.js",
     "static/css/main.5a8c9eaa.chunk.css",
-    "static/js/main.8125d82d.chunk.js"
+    "static/js/main.6bbe4993.chunk.js"
   ]
 }
